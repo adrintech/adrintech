@@ -32,7 +32,7 @@ I am focused on developing effective communication strategies for the Porto Aleg
 
 - **Email**: adriellyaraujoxs@gmail.com
 - **LinkedIn**: [[linkedin.com/in/adrielly-araújo-444106207](https://www.linkedin.com/in/adrielly-ara%C3%BAjo-444106207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](link_to_linkedin)
-- **GitHub**: [github.com/adrintech](link_to_github)
+
 
 I am always open to new learning and collaboration opportunities. Let's connect!
 
